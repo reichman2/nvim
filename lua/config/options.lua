@@ -23,3 +23,4 @@ opt.gdefault = true -- use the `g` flag by default.
 opt.virtualedit:append("block")
 
 opt.wrap = false -- do not wrap lines
+
