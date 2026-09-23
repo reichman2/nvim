@@ -11,6 +11,7 @@ opt.smarttab = true -- let's tab key insert 'tab stops', and bksp deletes tabs.
 opt.shiftround = true -- tab / shifting moves to closest tabstop.
 opt.autoindent = true -- Match indents on new lines.
 opt.smartindent = true -- Intellegently dedent / indent new lines based on rules.
+opt.cursorline = true -- highlight the active line
 
 -- Make search more sane
 opt.ignorecase = true -- case insensitive search
